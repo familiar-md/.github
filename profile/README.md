@@ -1,7 +1,6 @@
 ![familiar: bound to your work](https://raw.githubusercontent.com/familiar-md/familiar/main/docs/assets/familiar-banner.svg)
 
-familiar is a project-memory and workflow layer for LLM agents, where nothing has to be explained
-twice. It is just local files you own: download a folder, rename it to your project, and open Claude
+A project-memory and workflow layer that makes AI agents instantly familiar with your work, progress, and decisions. It is just local files you own: download a folder, rename it to your project, and open Claude
 Code, Codex, or Gemini CLI inside it. Every session starts from the project's own record (what it
 is, what has been decided, what is open, and where each fact came from) instead of from nothing.
 
