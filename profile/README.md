@@ -1,20 +1,20 @@
 ![familiar: bound to your work](https://raw.githubusercontent.com/familiar-md/familiar/main/docs/assets/familiar-banner.svg)
 
-A project-memory and workflow layer that makes AI agents instantly familiar with your work, progress, and decisions. It is just local files you own: download a folder, rename it to your project, and open Claude
-Code, Codex, or Gemini CLI inside it. Every session starts from the project's own record (what it
-is, what has been decided, what is open, and where each fact came from) instead of from nothing.
+A project-memory and workflow layer that makes AI agents instantly familiar with your work, progress,
+and decisions.
 
-familiar core is free and open source. One folder per project keeps each project's memory, tasks
-and material to itself.
+Download one folder, give it your project's name, and open your AI coding agent inside it: Claude
+Code, Codex or Gemini CLI. Every session then starts from the project's record instead of from
+nothing. It is plain Markdown and a few small scripts, kept in the folder. Free and open source.
 
 | Repo | What it is |
 |---|---|
-| [familiar](https://github.com/familiar-md/familiar) | The core: download a release and start here |
-| [familiar-hub](https://github.com/familiar-md/familiar-hub) | One view across all your projects, with daily and weekly briefs |
-| [familiar-hooks](https://github.com/familiar-md/familiar-hooks) | Optional hooks: session titles named after the project, and guards that hold the agent to familiar's project rules (a deterrent, not a security boundary) |
-| [familiar-template](https://github.com/familiar-md/familiar-template) | Build your own extension: click "Use this template" |
+| [familiar](https://github.com/familiar-md/familiar) | The core. Download a release and start here. |
+| [familiar-hub](https://github.com/familiar-md/familiar-hub) | One view across all your projects, with daily and weekly briefs. |
+| [familiar-hooks](https://github.com/familiar-md/familiar-hooks) | Optional session titles, and guards that block most actions outside the rules. An extra layer, not a guarantee. |
+| [familiar-template](https://github.com/familiar-md/familiar-template) | Build your own extension. Click "Use this template". |
 
-Guide, skills quick reference and manual: <https://familiar-md.github.io/familiar/>
+Docs: <https://familiar-md.github.io/familiar/>
 
-Built an extension? Tag your repo
-[`familiar-extension`](https://github.com/topics/familiar-extension) so others can find it.
+Built an extension? Tag its repo [`familiar-extension`](https://github.com/topics/familiar-extension)
+so others can find it.
